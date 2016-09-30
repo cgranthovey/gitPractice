@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     var myName = "Chris"
     var lastName = "Hovey"
     
+    var sisterNameFirst = "Laura"
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
