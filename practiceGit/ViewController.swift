@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     var lastName = "Hovey"
     
     var sisterNameFirst = "Laura"
+    var sisterLastName = "Hovey"
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
