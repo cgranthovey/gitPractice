@@ -21,6 +21,9 @@ class ViewController: UIViewController {
     var dadName = "Rich"
     var dadNameLast = "Hovey"
     
+    var momName = "Karen"
+    var momMaiden = "Grant"
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
